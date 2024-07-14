@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "AssassinPlayZ",
+    "password": "",
+    "type": ""
+  },
+
+  "server": {
+    "ip": "mc.leftypvp.net",
+    "port": 25565,
+    "version": "1.8"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "Assassin"
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "/skyblock",
+      "/is warp bulma afk",
+      "Sell coca at /is warp bulma >>>shop highest in the server"]
+       
+      
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
