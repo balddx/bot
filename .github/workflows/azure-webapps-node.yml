@@ -47,7 +47,7 @@ jobs:
         npm install
         npm run build --if-present
         npm run test --if-present
-        npm i --lockfile-version 1
+        npm i --lockfile-version 3 --package-lock-only
 
     - name: Upload artifact for deployment job
       uses: actions/upload-artifact@v3
