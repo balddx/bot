@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "SkyJr",
+    "password": "",
+    "type": ""
+  },
+
+  "server": {
+    "ip": "mc.leftypvp.net",
+    "port": 25565,
+    "version": "1.8"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "skykatakla"
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "/skyblock",
+      "/is warp bulma afk",
+      "Sell Cocoa Beans at /is warp Bulma for 5b per Stack"]
+       
+      
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 4000
+  }
+}
